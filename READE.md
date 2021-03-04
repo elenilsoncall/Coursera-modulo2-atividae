@@ -1,21 +1,23 @@
               Atividade Cousera Designer Responsivo (Desktop, tablet e celular)
+              
 
-largura <style color: green;>Desktop</style> => 992 px
-largura Tablet >768px < 991px
-largura Celular =< 767px
-
-Desktop: 992px
+largura Desktop => 992 px <br>
+largura Tablet >768px < 991px <br>
+largura Celular =< 767px<br>
+<hr>
+Desktop: 992px<br>
 Consiste em um título de página e 3 seções em linha, cada seção tem um texto
 cada uma das 3 seções deve ocupar a Conforme você torna a janela do navegador mais larga ou mais estreita, cada seção deve se tornar mais larga ou mais estreitamesma quantidade de espaço na tela.
 
-Tablet: > 768px <991px
+Tablet: > 768px <991px<br>
 
 as 2 primeiras seções devem estar na primeira linha e ter o mesmo tamanho. A terceira seção deve estar na segunda linha e ocupar toda a linha sozinha. Para obter uma referência visual dessa visualização, consulte a ilustração da maquete do tablet abaixo.
 
-Celular : =< 767px
+Celular : =< 767px<br>
 cada seção deve ocupar a linha inteira.
 
------------------------------*****************-----------------------------------------
+-----------------------------*****************--------------------------------
+
 Região do título da seção: Cada seção deve ter uma região do título da seção que está sempre posicionada no canto superior direito da seção, independentemente da visualização (desktop, tablet ou celular). Copie os títulos da ilustração do modelo (ou seja, frango, carne, sushi) ou crie o seu próprio.
 Por último, certifique-se de que o texto fictício foi "empurrado para baixo" o suficiente para que não se sobreponha à região do título da seção. 
 --------------------------------****************---------------------------------
